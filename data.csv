@@ -1,0 +1,289 @@
+﻿lisans_adi,ders_kodu_ve_adi,egitim_cinsi,verilis_sekli,sinav_tipi,gecme_notu,zorunluluk,sure,yenileme_suresi
+Uygulamalı Sınav Değerlendiricisi,U 01 E SD 009 - Eğitimde Ölçme ve Değerlendirme,Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,5 Saat,5 Yıl
+Uygulamalı Sınav Değerlendiricisi,U 01 E SD 028 - Havacılığa Giriş,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,∞
+Uygulamalı Sınav Değerlendiricisi,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,80,Zorunlu,4 Saat,5 Yıl
+Teorik Eğitim Sorumlusu,U 01 E SD 028 - Havacılığa Giriş,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,∞
+Teorik Eğitim Sorumlusu,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,4 Saat,5 Yıl
+Eğitim Müdürü,U 01 E UO 239 - Uçuş Eğitimi Gereklilikleri,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,5 Saat,-
+Eğitim Müdürü,U 01 E SD 028 - Havacılığa Giriş,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,∞
+Eğitim Müdürü,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,4 Saat,5 Yıl
+Pratik Eğitim Sorumlusu,U 01 E SD 009 - Eğitimde Ölçme ve Değerlendirme,Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,5 Saat,5 Yıl
+Pratik Eğitim Sorumlusu,U 01 E SD 028 - Havacılığa Giriş,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,∞
+Pratik Eğitim Sorumlusu,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,4 Saat,5 Yıl
+ATC OJTI,U 01 E SD 009 - Eğitimde Ölçme ve Değerlendirme,Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,5 Saat,5 Yıl
+ATC OJTI,U 01 E SD 028 - Havacılığa Giriş,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,∞
+ATC OJTI,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,4 Saat,5 Yıl
+Emniyet Sistem Yöneticisi,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Emniyet Sistem Yöneticisi,U 01 E SD 028 - Havacılığa Giriş,Temel,Dijital Ders,Gözetmenli Online Sınavlı,50,Zorunlu,8 Saat,∞
+Emniyet Sistem Yöneticisi,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,4 Saat,5 Yıl
+Uyumluluk İzleme/Kalite Yöneticisi,U 01 E UO 223 - Uyumluluk İzleme,Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,6 Saat,5 Yıl
+Uyumluluk İzleme/Kalite Yöneticisi,U 01 E SD 028 - Havacılığa Giriş,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,∞
+Uyumluluk İzleme/Kalite Yöneticisi,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,4 Saat,5 Yıl
+Havaalanı Çevre Yönetimi ve Sürdürülebilirlik Uzmanı,U 01 E CB 019 - Çevre Yönetim Sistemi Temel,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,5 Saat,-
+Havaalanı Çevre Yönetimi ve Sürdürülebilirlik Uzmanı,U 01 E CB 006 - Uluslararası Havacılığa Yönelik Karbon Denkleştirme Ve Azaltma Şeması,Temel,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,5 Saat,5 Yıl
+Havaalanı Çevre Yönetimi ve Sürdürülebilirlik Uzmanı,U 01 E SD 028 - Havacılığa Giriş,Temel,Dijital Ders,Bütünleşik-S Sınavlı,70,Zorunlu,8 Saat,∞
+Havaalanı Çevre Yönetimi ve Sürdürülebilirlik Uzmanı,U 01 N CB 018 - Veri Yönetimi Sistemi,Temel,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,5 Saat,-
+Havaalanı Çevre Yönetimi ve Sürdürülebilirlik Uzmanı,U 01 N CB 020 - Çevre Mevzuatı - Emisyon,Temel,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,80,Zorunlu,5 Saat,-
+Havaalanı Çevre Yönetimi ve Sürdürülebilirlik Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Havaalanı İklim Değişikliği ve Emisyon Yönetimi Uzmanı,U 01 E CB 007 - Havaalanı Sera Gazı (GHG) Yönetimi ve Havaalanı Emisyon Envanteri/Karbon Ayakizi Hazırlama,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,5 Saat,5 Yıl
+Havaalanı İklim Değişikliği ve Emisyon Yönetimi Uzmanı,U 01 E CB 006 - Uluslararası Havacılığa Yönelik Karbon Denkleştirme Ve Azaltma Şeması,Temel,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,5 Saat,5 Yıl
+Havaalanı İklim Değişikliği ve Emisyon Yönetimi Uzmanı,U 01 E CB 019 - Çevre Yönetim Sistemi Temel,Temel,Dijital Ders,Gözetmenli Online Sınavlı,80,Zorunlu,5 Saat,-
+Havaalanı İklim Değişikliği ve Emisyon Yönetimi Uzmanı,U 01 N CB 018 - Veri Yönetimi Sistemi,Temel,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,5 Saat,-
+Havaalanı İklim Değişikliği ve Emisyon Yönetimi Uzmanı,U 01 N CB 020 - Çevre Mevzuatı - Emisyon,Temel,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,80,Zorunlu,5 Saat,-
+Havaalanı İklim Değişikliği ve Emisyon Yönetimi Uzmanı,U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Bütünleşik-S Sınavlı,70,Zorunlu,8 Saat,∞
+Havaalanı İklim Değişikliği ve Emisyon Yönetimi Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Havayolu Çevre Yönetim Sistemi ve Emisyon Yönetimi Uzmanı,U 01 E CB 007 - Havaalanı Sera Gazı (GHG) Yönetimi ve Havaalanı Emisyon Envanteri/Karbon Ayakizi Hazırlama,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,5 Saat,5 Yıl
+Havayolu Çevre Yönetim Sistemi ve Emisyon Yönetimi Uzmanı,U 01 E CB 006 - Uluslararası Havacılığa Yönelik Karbon Denkleştirme Ve Azaltma Şeması,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,5 Saat,5 Yıl
+Havayolu Çevre Yönetim Sistemi ve Emisyon Yönetimi Uzmanı,U 01 N CB 015 - Sera Gazı Hesaplama ve Doğrulama Yönetim Sistemi ISO 14064-1,Uzmanlaşma,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,5 Saat,-
+Havayolu Çevre Yönetim Sistemi ve Emisyon Yönetimi Uzmanı,U 01 E CB 019 - Çevre Yönetim Sistemi Temel,Temel,Dijital Ders,Online Sınavlı,80,Zorunlu,5 Saat,-
+Havayolu Çevre Yönetim Sistemi ve Emisyon Yönetimi Uzmanı,U 01 N CB 018 - Veri Yönetimi Sistemi,Temel,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,5 Saat,-
+Havayolu Çevre Yönetim Sistemi ve Emisyon Yönetimi Uzmanı,U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Bütünleşik-S Sınavlı,70,Zorunlu,8 Saat,∞
+Havayolu Çevre Yönetim Sistemi ve Emisyon Yönetimi Uzmanı,U 01 N CB 020 - Çevre Mevzuatı - Emisyon,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,5 Saat,-
+Havayolu Çevre Yönetim Sistemi ve Emisyon Yönetimi Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,4 Saat,5 Yıl
+Sera Gazı Doğrulayıcı,U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Bütünleşik-S Sınavlı,70,Zorunlu,8 Saat,∞
+Sera Gazı Doğrulayıcı,U 01 N CB 018 - Veri Yönetimi Sistemi,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,5 Saat,-
+Sera Gazı Doğrulayıcı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Sürdürülebilir Havacılık Yakıtları Uzmanı,U 01 E CB 004 - Havacılık Yakıt Yönetimi ve Sürdürülebilir Havacılık Yakıtları,Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,80,Zorunlu,6 Saat,5 Yıl
+Sürdürülebilir Havacılık Yakıtları Uzmanı,U 01 E CB 006 - Uluslararası Havacılığa Yönelik Karbon Denkleştirme Ve Azaltma Şeması,Temel,Dijital Ders,Gözetmenli Online Sınavlı,80,Zorunlu,5 Saat,5 Yıl
+Sürdürülebilir Havacılık Yakıtları Uzmanı,U 01 N CB 018 - Veri Yönetimi Sistemi,Temel,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,5 Saat,-
+Sürdürülebilir Havacılık Yakıtları Uzmanı,U 01 N CB 021 - Sera gazı emisyonları ve sera gazı envanteri oluşturma,Temel,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,80,Zorunlu,5 Saat,-
+Sürdürülebilir Havacılık Yakıtları Uzmanı,U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Bütünleşik-S Sınavlı,70,Zorunlu,8 Saat,∞
+Sürdürülebilir Havacılık Yakıtları Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Görsel Yardımcılar ve Elektrik Sistemleri Uzmanı,U 01 E HA 001 - Havaalanı Görsel Yardımcılar ve Elektrik Sistemleri,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,40 Saat,5 Yıl
+Görsel Yardımcılar ve Elektrik Sistemleri Uzmanı,U 01 E HA 040 - Pist Apron Taksiyolu (PAT) Sahalarında Araç Kullanma,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,5 Yıl
+Görsel Yardımcılar ve Elektrik Sistemleri Uzmanı,U 01 E HA 004 - Havaalanı Tasarımı ve İşletimi,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,40 Saat,5 Yıl
+Görsel Yardımcılar ve Elektrik Sistemleri Uzmanı,U 01 E HA 018 - Kötü Hava Koşullarında Operasyon,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,5 Yıl
+Görsel Yardımcılar ve Elektrik Sistemleri Uzmanı,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Görsel Yardımcılar ve Elektrik Sistemleri Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Hava Tarafı Operasyon Uzmanı,U 01 E HA 018 - Kötü Hava Koşullarında Operasyon,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,8 Saat,5 Yıl
+Hava Tarafı Operasyon Uzmanı,U 01 E HA 040 - Pist Apron Taksiyolu (PAT) Sahalarında Araç Kullanma,Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,5 Yıl
+Hava Tarafı Operasyon Uzmanı,U 01 E HA 003 - Maniaların Kontrolü,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Hava Tarafı Operasyon Uzmanı,U 01 E HA 004 - Havaalanı Tasarımı ve İşletimi,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,40 Saat,5 Yıl
+Hava Tarafı Operasyon Uzmanı,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Hava Tarafı Operasyon Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Havaalanı Mania Uzmanı,U 01 E HA 003 - Maniaların Kontrolü,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Havaalanı Mania Uzmanı,U 01 E HA 004 - Havaalanı Tasarımı ve İşletimi,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,40 Saat,5 Yıl
+Havaalanı Mania Uzmanı,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Havaalanı Mania Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+"Havaalanı Tasarım, Bakım ve Onarım Uzmanı",U 01 E HA 005 - Pist Apron Taksiyolu (PAT) Sahalarının Fiziksel Özellikleri,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,40 Saat,5 Yıl
+"Havaalanı Tasarım, Bakım ve Onarım Uzmanı",U 01 E HA 040 - Pist Apron Taksiyolu (PAT) Sahalarında Araç Kullanma,Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,5 Yıl
+"Havaalanı Tasarım, Bakım ve Onarım Uzmanı",U 01 E HA 004 - Havaalanı Tasarımı ve İşletimi,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,40 Saat,5 Yıl
+"Havaalanı Tasarım, Bakım ve Onarım Uzmanı",U 01 E HA 018 - Kötü Hava Koşullarında Operasyon,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,5 Yıl
+"Havaalanı Tasarım, Bakım ve Onarım Uzmanı",U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+"Havaalanı Tasarım, Bakım ve Onarım Uzmanı",U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Heliport İşletme Uzmanı,U 01 E HA 013 - Heliport Tasarımı ve İşletimi,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,40 Saat,3 Yıl
+Kurtarma ve Yangınla Mücadele Uzmanı,U 01 E HA 006 - Havaalanı Kurtarma ve Yangınla Mücadele,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,120 Saat,3 Yıl
+Kurtarma ve Yangınla Mücadele Uzmanı,U 01 E HA 040 - Pist Apron Taksiyolu (PAT) Sahalarında Araç Kullanma,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,5 Yıl
+Kurtarma ve Yangınla Mücadele Uzmanı,U 01 E HA 130 - Havaalanı Acil Durum Planlaması,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,16 Saat,5 Yıl
+Kurtarma ve Yangınla Mücadele Uzmanı,U 01 E HA 004 - Havaalanı Tasarımı ve İşletimi,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,40 Saat,5 Yıl
+Kurtarma ve Yangınla Mücadele Uzmanı,U 01 E HA 018 - Kötü Hava Koşullarında Operasyon,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,5 Yıl
+Kurtarma ve Yangınla Mücadele Uzmanı,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Kurtarma ve Yangınla Mücadele Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Akaryakıt Depolama ve İkmal Uzmanı,U 01 E HA 008 - Havacılık Yakıtı Depolama ve İkmali,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,56 Saat,5 Yıl
+Akaryakıt Depolama ve İkmal Uzmanı,U 01 E HA 129 - Kalite Yönetimi ve Uyumluluk İzleme,Temel,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Akaryakıt Depolama ve İkmal Uzmanı,U 01 E HA 130 - Havaalanı Acil Durum Planlaması,Temel,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,16 Saat,5 Yıl
+Akaryakıt Depolama ve İkmal Uzmanı,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Başlangıç,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Akaryakıt Depolama ve İkmal Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Akaryakıt Depolama ve İkmal Uzmanı,U 01 P HA 063 - Akaryakıt Depolama ve İkmal Operatör İşbaşı,Belirtilmemiş,Pratik Ders,Uygulama Sınavlı,80,Zorunlu,40 Saat,-
+Depo/Antrepo Uzmanı,U 01 E HA 073 - Tehlikeli Maddeler 7.2,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,40 Saat,2 Yıl
+Depo/Antrepo Uzmanı,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Temel,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Depo/Antrepo Uzmanı,U 01 E SD 028 - Havacılığa Giriş,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,∞
+Depo/Antrepo Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Depo/Antrepo Uzmanı,U 01 E HA 128 - Havacılıkta Depo ve Antrepo Yönetimi,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,-,-
+Terminal Bagaj Kontrol Sistemleri Uzmanı,U 01 E HA 041 - Bagaj Kontrol Sistemi,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,48 Saat,5 Yıl
+Terminal Bagaj Kontrol Sistemleri Uzmanı,U 01 E HA 011 - Terminal İşletmeciliği,Temel,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,56 Saat,5 Yıl
+Terminal Bagaj Kontrol Sistemleri Uzmanı,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Terminal Bagaj Kontrol Sistemleri Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,4 Saat,5 Yıl
+Terminal Bagaj Kontrol Sistemleri Uzmanı,U 01 E HA 131 - Terminal Acil Durum Planlama ve Yangınla Mücadele,Başlangıç,Dijital Ders,Bütünleşik Sınavlı,70,Opsiyonel,-,-
+Terminal Hizmetleri Uzmanı,U 01 E HA 011 - Terminal İşletmeciliği,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,56 Saat,5 Yıl
+Terminal Hizmetleri Uzmanı,U 01 E HA 129 - Kalite Yönetimi ve Uyumluluk İzleme,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Terminal Hizmetleri Uzmanı,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Terminal Hizmetleri Uzmanı,U 01 P HA 111 - Terminal Hizmetleri Uzmanı İşbaşı,Temel,Pratik Ders,Uygulama Sınavlı,70,Zorunlu,-,-
+Terminal Hizmetleri Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,4 Saat,5 Yıl
+Terminal Hizmetleri Uzmanı,U 01 E HA 131 - Terminal Acil Durum Planlama ve Yangınla Mücadele,Başlangıç,Dijital Ders,Bütünleşik Sınavlı,70,Opsiyonel,-,-
+Terminal Köprü Hizmetleri Uzmanı,U 01 E HA 043 - Köprü Hizmetleri,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,48 Saat,5 Yıl
+Terminal Köprü Hizmetleri Uzmanı,U 01 E HA 011 - Terminal İşletmeciliği,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,56 Saat,5 Yıl
+Terminal Köprü Hizmetleri Uzmanı,U 01 P HA 064 - Terminal Köprü Hizmetleri Uzmanı İşbaşı,Temel,Pratik Ders,Uygulama Sınavlı,80,Zorunlu,40 Saat,5 Yıl
+Terminal Köprü Hizmetleri Uzmanı,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Terminal Köprü Hizmetleri Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,4 Saat,5 Yıl
+Terminal Köprü Hizmetleri Uzmanı,U 01 E HA 131 - Terminal Acil Durum Planlama ve Yangınla Mücadele,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Opsiyonel,-,-
+Terminal Teknik Bakım Uzmanı,U 01 E HA 115 - Teknik Bakım Onarım,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,40 Saat,5 Yıl
+Terminal Teknik Bakım Uzmanı,U 01 E HA 131 - Terminal Acil Durum Planlama ve Yangınla Mücadele,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,-,-
+Terminal Teknik Bakım Uzmanı,U 01 E HA 041 - Bagaj Kontrol Sistemi,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,48 Saat,5 Yıl
+Terminal Teknik Bakım Uzmanı,U 01 E HA 043 - Köprü Hizmetleri,Başlangıç,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,48 Saat,5 Yıl
+Terminal Teknik Bakım Uzmanı,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Terminal Teknik Bakım Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,4 Saat,5 Yıl
+İkram Operasyon Uzmanı,U 01 E HA 088 - İkram Yüklemesi,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,8 Saat,3 Yıl
+İkram Operasyon Uzmanı,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Temel,Dijital Ders,Gözetmenli Online Sınavlı,60,Zorunlu,24 Saat,5 Yıl
+İkram Operasyon Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+İkram Operasyon Uzmanı,U 01 P HA 088 - İkram Yüklemesi İşbaşı,Başlangıç,Pratik Ders,Uygulama Sınavlı,70,Zorunlu,8 Saat,∞
+İkram Operasyon Uzmanı,U 01 E HA 040 - Pist Apron Taksiyolu (PAT) Sahalarında Araç Kullanma,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Opsiyonel,8 Saat,5 Yıl
+İkram Operasyon Uzmanı,U 01 N UI 002 - Uluslararası Sivil Havacılık Teşkilatı (ICAO),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,70,Opsiyonel,8 Saat,∞
+Kargo ve Posta Hizmetleri Uzmanı,U 01 E HA 034 - Kargo İşlemleri,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,32 Saat,3 Yıl
+Kargo ve Posta Hizmetleri Uzmanı,U 01 E HA 086 - Tehlikeli Maddeler (7.3 Kargo ve Posta),Temel,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,40 Saat,2 Yıl
+Kargo ve Posta Hizmetleri Uzmanı,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Kargo ve Posta Hizmetleri Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Kargo ve Posta Hizmetleri Uzmanı,U 01 P HA 058 - Kargo ve Posta İşbaşı,Başlangıç,Pratik Ders,Uygulama Sınavlı,70,Zorunlu,8 Saat,∞
+Kargo ve Posta Hizmetleri Uzmanı,U 01 N UI 002 - Uluslararası Sivil Havacılık Teşkilatı (ICAO),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,70,Opsiyonel,8 Saat,∞
+Ramp Araç Şoförü,U 01 E HA 031 - Ramp Ekipman Operasyon,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,8 Saat,3 Yıl
+Ramp Araç Şoförü,U 01 E HA 040 - Pist Apron Taksiyolu (PAT) Sahalarında Araç Kullanma,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,5 Yıl
+Ramp Araç Şoförü,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Temel,Dijital Ders,Gözetmenli Online Sınavlı,60,Zorunlu,24 Saat,5 Yıl
+Ramp Araç Şoförü,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,60,Zorunlu,4 Saat,5 Yıl
+Ramp Araç Şoförü,U 01 P HA 061 - Ramp Araç Şoförü İşbaşı,Başlangıç,Pratik Ders,Uygulama Sınavlı,70,Zorunlu,8 Saat,∞
+Ramp Araç Şoförü,U 01 N UI 002 - Uluslararası Sivil Havacılık Teşkilatı (ICAO),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,70,Opsiyonel,8 Saat,∞
+Ramp Hizmetleri Sorumlusu,U 01 E HA 014 - Ramp ve Kargo,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,8 Saat,3 Yıl
+Ramp Hizmetleri Sorumlusu,U 01 E HA 080 - Tehlikeli Maddeler (7.4 Ramp),Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,80,Zorunlu,8 Saat,2 Yıl
+Ramp Hizmetleri Sorumlusu,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Temel,Dijital Ders,Gözetmenli Online Sınavlı,60,Zorunlu,24 Saat,5 Yıl
+Ramp Hizmetleri Sorumlusu,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,60,Zorunlu,4 Saat,5 Yıl
+Ramp Hizmetleri Sorumlusu,U 01 P HA 059 - Ramp İşbaşı,Başlangıç,Pratik Ders,Uygulama Sınavlı,70,Zorunlu,8 Saat,∞
+Ramp Hizmetleri Sorumlusu,U 01 N UI 002 - Uluslararası Sivil Havacılık Teşkilatı (ICAO),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,70,Opsiyonel,8 Saat,∞
+"Temsil, Gözetim ve Yönetim Uzmanı","U 01 E HA 103 - Temsil, Gözetim ve Yönetim",Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,40 Saat,3 Yıl
+"Temsil, Gözetim ve Yönetim Uzmanı","U 01 E HA 127 - Tehlikeli Maddeler (7.11. Temsil, Gözetim ve Yönetim)",Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,80,Zorunlu,8 Saat,2 Yıl
+"Temsil, Gözetim ve Yönetim Uzmanı",U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+"Temsil, Gözetim ve Yönetim Uzmanı","U 01 P HA 103 - Temsil, Gözetim ve Yönetim İşbaşı",Başlangıç,Pratik Ders,Uygulama Sınavlı,70,Zorunlu,8 Saat,∞
+"Temsil, Gözetim ve Yönetim Uzmanı",U 01 E HA 040 - Pist Apron Taksiyolu (PAT) Sahalarında Araç Kullanma,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Opsiyonel,8 Saat,5 Yıl
+"Temsil, Gözetim ve Yönetim Uzmanı",U 01 N UI 002 - Uluslararası Sivil Havacılık Teşkilatı (ICAO),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,70,Opsiyonel,8 Saat,∞
+Yolcu Hizmetleri Uzmanı,U 01 E HA 015 - Yolcu Hizmetleri,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,40 Saat,5 Yıl
+Yolcu Hizmetleri Uzmanı,U 01 E HA 076 - Tehlikeli Maddeler (7.5 Yolcu Hizmetleri),Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,80,Zorunlu,8 Saat,2 Yıl
+Yolcu Hizmetleri Uzmanı,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Yolcu Hizmetleri Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Yolcu Hizmetleri Uzmanı,U 01 P HA 060 - Yolcu Hizmetleri İşbaşı,Başlangıç,Pratik Ders,Uygulama Sınavlı,70,Zorunlu,8 Saat,∞
+Yolcu Hizmetleri Uzmanı,U 01 N UI 002 - Uluslararası Sivil Havacılık Teşkilatı (ICAO),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,70,Opsiyonel,8 Saat,∞
+Yük Kontrolü ve Haberleşme Uzmanı,U 01 E HA 019 - Yük Kontrolü ve Denge,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,72 Saat,3 Yıl
+Yük Kontrolü ve Haberleşme Uzmanı,U 01 E HA 077 - Tehlikeli Maddeler (7.6 Yük Kontrolü ve Denge),Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,80,Zorunlu,8 Saat,2 Yıl
+Yük Kontrolü ve Haberleşme Uzmanı,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Yük Kontrolü ve Haberleşme Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Yük Kontrolü ve Haberleşme Uzmanı,U 01 P HA 057 - Yük Kontrolü ve Haberleşme İşbaşı,Başlangıç,Pratik Ders,Uygulama Sınavlı,70,Zorunlu,8 Saat,∞
+Yük Kontrolü ve Haberleşme Uzmanı,U 01 N UI 002 - Uluslararası Sivil Havacılık Teşkilatı (ICAO),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,70,Opsiyonel,8 Saat,∞
+Havacılık Güvenliği Personeli,U 01 E HG 003 - Temel Sivil Havacılık Güvenliği,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,24 Saat,3 Yıl
+Havacılık Güvenliği Personeli,U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,50,Zorunlu,8 Saat,∞
+Havacılık Güvenliği Personeli,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Havacılık Güvenliği Personeli,U 01 N UI 002 - Uluslararası Sivil Havacılık Teşkilatı (ICAO),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,70,Opsiyonel,8 Saat,∞
+Havacılık Güvenliği Personeli,U 01 N UI 003 - Avrupa Sivil Havacılık Konferansı (ECAC),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,70,Opsiyonel,5 Saat,∞
+Kontrol Noktası Sorumlusu,U 01 E HG 510 - Havacılık Güvenliği Kontrol Noktası Yönetimi,Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,2 Saat,3 Yıl
+Kontrol Noktası Sorumlusu,U 01 E HG 003 - Temel Sivil Havacılık Güvenliği,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,3 Yıl
+Kontrol Noktası Sorumlusu,U 01 N HG 010 - Siber Güvenlik Bilinci,Temel,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,2 Saat,3 Yıl
+Kontrol Noktası Sorumlusu,U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,60,Zorunlu,8 Saat,∞
+Kontrol Noktası Sorumlusu,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Kontrol Noktası Sorumlusu,U 01 N UI 002 - Uluslararası Sivil Havacılık Teşkilatı (ICAO),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,70,Opsiyonel,8 Saat,∞
+Kontrol Noktası Sorumlusu,U 01 N UI 003 - Avrupa Sivil Havacılık Konferansı (ECAC),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,70,Opsiyonel,5 Saat,∞
+Tarayıcı Personel,U 01 E HG 722 - Havacılık Güvenliğinde Tarama Uygulamaları,Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,40 Saat,3 Yıl
+Tarayıcı Personel,U 01 P HG 019 - Uygulamalı Tarama Prosedürleri,Uzmanlaşma,Pratik Ders,Uygulama Sınavlı,80,Zorunlu,80 Saat,∞
+Tarayıcı Personel,U 01 R HG 020 - Uygulamalı Görüntü Yorumlama Prosedürleri,Uzmanlaşma,Simülatör,Uygulama Sınavlı,70,Zorunlu,6 Saat,3 Yıl
+Tarayıcı Personel,U 01 E HG 003 - Temel Sivil Havacılık Güvenliği,Temel,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,24 Saat,3 Yıl
+Tarayıcı Personel,U 01 E HG 508 - Tehlikeli Maddeler 7.10,Temel,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,6 Saat,2 Yıl
+Tarayıcı Personel,U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,50,Zorunlu,8 Saat,∞
+Tarayıcı Personel,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Tarayıcı Personel,U 01 N HG 010 - Siber Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,2 Saat,3 Yıl
+Tarayıcı Personel,U 01 N UI 002 - Uluslararası Sivil Havacılık Teşkilatı (ICAO),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,50,Opsiyonel,8 Saat,∞
+Tarayıcı Personel,U 01 N UI 003 - Avrupa Sivil Havacılık Konferansı (ECAC),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,50,Opsiyonel,5 Saat,∞
+Uçak Özel Güvenlik Personeli (Havacılık Güvenliği),U 01 E HG 717 - Uçak Özel Güvenlik Hizmet ve Denetimi,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,5 Saat,2 Yıl
+Uçak Özel Güvenlik Personeli (Havacılık Güvenliği),U 01 E HG 003 - Temel Sivil Havacılık Güvenliği,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,3 Yıl
+Uçak Özel Güvenlik Personeli (Havacılık Güvenliği),U 01 N HG 010 - Siber Güvenlik Bilinci,Temel,Dijital Bilgi Notu,Online Sınavlı,60,Zorunlu,2 Saat,3 Yıl
+Uçak Özel Güvenlik Personeli (Havacılık Güvenliği),U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,50,Zorunlu,8 Saat,∞
+Uçak Özel Güvenlik Personeli (Havacılık Güvenliği),U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Kırmızı Takım Siber Güvenlik Uzmanı,U 01 E HG 013 - Kırmızı Takım Ofansif Siber Güvenlik,Uzmanlaşma,Dijital Ders,Online Sınavlı,80,Zorunlu,3 Saat,3 Yıl
+Kırmızı Takım Siber Güvenlik Uzmanı,U 01 N HG 010 - Siber Güvenlik Bilinci,Temel,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,2 Saat,3 Yıl
+Kırmızı Takım Siber Güvenlik Uzmanı,U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Online Sınavlı,70,Zorunlu,8 Saat,∞
+Kırmızı Takım Siber Güvenlik Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Kırmızı Takım Siber Güvenlik Uzmanı,U 01 E HG 014 - Havacılık Sektöründe Bilgi Güvenliği Yönetim Sistemi,Temel,Dijital Ders,Bütünleşik Sınavlı,70,Opsiyonel,2 Saat,3 Yıl
+Kırmızı Takım Siber Güvenlik Uzmanı,U 01 N HG 603 - Güvenli Yazılım Geliştirme--ZE--667,Temel,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,70,Opsiyonel,1 Saat,3 Yıl
+Mavi Takım Siber Güvenlik Uzmanı,U 01 E HG 012 - Mavi Takım Defansif Siber Güvenlik,Uzmanlaşma,Dijital Ders,Online Sınavlı,80,Zorunlu,3 Saat,3 Yıl
+Mavi Takım Siber Güvenlik Uzmanı,U 01 N HG 010 - Siber Güvenlik Bilinci,Temel,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,2 Saat,3 Yıl
+Mavi Takım Siber Güvenlik Uzmanı,U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,∞
+Mavi Takım Siber Güvenlik Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Mavi Takım Siber Güvenlik Uzmanı,U 01 N HG 603 - Güvenli Yazılım Geliştirme--ZE--667,Temel,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,70,Opsiyonel,1 Saat,3 Yıl
+Siber Güvenlik Uzmanı,U 01 E HG 012 - Mavi Takım Defansif Siber Güvenlik,Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,80,Zorunlu,3 Saat,3 Yıl
+Siber Güvenlik Uzmanı,U 01 E HG 013 - Kırmızı Takım Ofansif Siber Güvenlik,Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,80,Zorunlu,3 Saat,3 Yıl
+Siber Güvenlik Uzmanı,U 01 N HG 010 - Siber Güvenlik Bilinci,Temel,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,70,Zorunlu,2 Saat,3 Yıl
+Siber Güvenlik Uzmanı,U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,60,Zorunlu,8 Saat,∞
+Siber Güvenlik Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,4 Saat,5 Yıl
+Hava Seyrüsefer Bilirkişisi,U 01 E HS 006 - Hava Seyrüsefer için Meteoroloji,Başlangıç,Dijital Ders,Online Sınavlı,70,Opsiyonel,4 Saat,-
+Hava Seyrüsefer Bilirkişisi,U 01 E HS 048 - Hava Seyrüsefer Yardımcı Sistemleri,Başlangıç,Dijital Ders,Online Sınavlı,70,Opsiyonel,5 Saat,-
+Hava Seyrüsefer Bilirkişisi,U 01 E HS 051 - Hava Kuralları,Başlangıç,Dijital Ders,Online Sınavlı,70,Opsiyonel,40 Saat,-
+Hava Seyrüsefer Bilirkişisi,U 01 E HS 056 - Uçuş Planı ve NOTAM,Başlangıç,Dijital Ders,Online Sınavlı,70,Opsiyonel,5 Saat,-
+Hava Ulaşım Bilirkişisi,U 01 E HU 005 - Uçuş İzin İşlemleri,Başlangıç,Dijital Ders,Online Sınavlı,70,Opsiyonel,5 Saat,-
+Havaalanları Bilirkişisi,U 01 E HA 012 - Yer Hizmetlerine Giriş,Başlangıç,Dijital Ders,Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Havaalanları Bilirkişisi,U 01 E HA 003 - Maniaların Kontrolü,Başlangıç,Dijital Ders,Online Sınavlı,70,Opsiyonel,24 Saat,5 Yıl
+Havaalanları Bilirkişisi,U 01 E HA 011 - Terminal İşletmeciliği,Başlangıç,Dijital Ders,Online Sınavlı,70,Opsiyonel,56 Saat,5 Yıl
+Havacılık Güvenliği Bilirkişisi,U 01 E HG 005 - Havacılık Güvenliği Yönetim Sistemi,Başlangıç,Dijital Ders,Online Sınavlı,70,Opsiyonel,8 Saat,5 Yıl
+Havacılık Güvenliği Bilirkişisi,U 01 E HG 007 - Havacılık Güvenliği Mevzuatı ve Uygulamaları,Başlangıç,Dijital Ders,Online Sınavlı,70,Opsiyonel,5 Saat,3 Yıl
+Havacılık Güvenliği Bilirkişisi,U 01 E HG 009 - Hava Kargo ve Tedarik Güvenliği,Başlangıç,Dijital Ders,Online Sınavlı,70,Opsiyonel,12 Saat,3 Yıl
+Havacılık Güvenliği Bilirkişisi,U 01 E HG 014 - Havacılık Sektöründe Bilgi Güvenliği Yönetim Sistemi,Başlangıç,Dijital Ders,Online Sınavlı,70,Opsiyonel,2 Saat,3 Yıl
+Uçuş Operasyon Bilirkişisi,"U 01 E UO 055 - Uçuş, Görev Süresi Ve Dinlenme Gereklilikleri",Temel,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,5 Saat,5 Yıl
+Uçuş Operasyon Bilirkişisi,U 01 E UO 150 - Lisanslandırma İşlemleri,Temel,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,5 Saat,-
+Uçuşa Elverişlilik Bilirkişisi,U 01 E UE 001 - Sürekli Uçuşa Elverişlilik Yönetimi,Başlangıç,Dijital Ders,Online Sınavlı,70,Opsiyonel,7 Saat,-
+Uçuşa Elverişlilik Bilirkişisi,U 01 E UE 002 - Onaylı Bakım Kuruluşları,Başlangıç,Dijital Ders,Online Sınavlı,70,Opsiyonel,8 Saat,-
+Uçuşa Elverişlilik Bilirkişisi,U 01 E UE 003 - Temel Hava Aracı Sertifikasyonu,Başlangıç,Dijital Ders,Online Sınavlı,70,Opsiyonel,5 Saat,5 Yıl
+Uçuşa Elverişlilik Bilirkişisi,U 01 E UE 007 - Hava Aracı Uçuşa Elverişlilik Denetimi,Başlangıç,Dijital Ders,Online Sınavlı,70,Opsiyonel,5 Saat,5 Yıl
+Diğer,U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,∞
+Diğer,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,4 Saat,5 Yıl
+"Eğitim, Araştırma ve Denetleme Birimi (EADB) Üyesi",U 01 E HG 017 - Havacılık Güvenliği Denetimi,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,5 Saat,3 Yıl
+"Eğitim, Araştırma ve Denetleme Birimi (EADB) Üyesi",U 01 E SD 018 - Denetim Teknikleri,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,8 Saat,5 Yıl
+"Eğitim, Araştırma ve Denetleme Birimi (EADB) Üyesi",U 01 E HG 002 - Havacılık Güvenliği Sistem ve Cihazları,Temel,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,5 Saat,3 Yıl
+"Eğitim, Araştırma ve Denetleme Birimi (EADB) Üyesi",U 01 E HG 003 - Temel Sivil Havacılık Güvenliği,Temel,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,24 Saat,3 Yıl
+"Eğitim, Araştırma ve Denetleme Birimi (EADB) Üyesi",U 01 E HG 004 - Havacılık Güvenliği Testleri,Temel,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,5 Saat,3 Yıl
+"Eğitim, Araştırma ve Denetleme Birimi (EADB) Üyesi",U 01 E HG 007 - Havacılık Güvenliği Mevzuatı ve Uygulamaları,Temel,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,5 Saat,3 Yıl
+"Eğitim, Araştırma ve Denetleme Birimi (EADB) Üyesi",U 01 E HG 508 - Tehlikeli Maddeler 7.10,Başlangıç,Dijital Ders,Online Sınavlı,70,Zorunlu,6 Saat,2 Yıl
+"Eğitim, Araştırma ve Denetleme Birimi (EADB) Üyesi",U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Online Sınavlı,70,Zorunlu,8 Saat,∞
+"Eğitim, Araştırma ve Denetleme Birimi (EADB) Üyesi",U 01 E SD 046 - Etkili İletişim Becerileri,Başlangıç,Dijital Ders,Online Sınavlı,70,Zorunlu,6 Saat,3 Yıl
+"Eğitim, Araştırma ve Denetleme Birimi (EADB) Üyesi",U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+"Eğitim, Araştırma ve Denetleme Birimi (EADB) Üyesi",U 01 N HG 010 - Siber Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,80,Zorunlu,2 Saat,3 Yıl
+"Eğitim, Araştırma ve Denetleme Birimi (EADB) Üyesi",U 01 N UI 002 - Uluslararası Sivil Havacılık Teşkilatı (ICAO),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,50,Opsiyonel,8 Saat,5 Yıl
+"Eğitim, Araştırma ve Denetleme Birimi (EADB) Üyesi",U 01 N UI 003 - Avrupa Sivil Havacılık Konferansı (ECAC),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,50,Opsiyonel,5 Saat,3 Yıl
+Hakim,U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,∞
+Hakim,U 01 E UO 022 - Hava Hukuku 2,Başlangıç,Dijital Ders,Online Sınavlı,80,Zorunlu,40 Saat,-
+Hakim,U 01 E UO 026 - Hava Hukuku 1,Başlangıç,Dijital Ders,Online Sınavlı,80,Zorunlu,10 Saat,2 Yıl
+Hakim,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,4 Saat,5 Yıl
+Havalimanı Mülki İdare Amiri,U 01 E HG 005 - Havacılık Güvenliği Yönetim Sistemi,Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,5 Yıl
+Havalimanı Mülki İdare Amiri,U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,50,Zorunlu,8 Saat,∞
+Havalimanı Mülki İdare Amiri,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Havalimanı Mülki İdare Amiri,U 01 N HG 010 - Siber Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,70,Zorunlu,2 Saat,3 Yıl
+Havalimanı Mülki İdare Amiri,U 01 E HA 003 - Maniaların Kontrolü,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Opsiyonel,24 Saat,5 Yıl
+Havalimanı Mülki İdare Amiri,U 01 N UI 002 - Uluslararası Sivil Havacılık Teşkilatı (ICAO),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,70,Opsiyonel,8 Saat,∞
+Havalimanı Mülki İdare Amiri,U 01 N UI 003 - Avrupa Sivil Havacılık Konferansı (ECAC),Başlangıç,Dijital Bilgi Notu,Online Sınavsız,70,Opsiyonel,5 Saat,∞
+Müşteri İlişkileri ve Yolcu Hakları Sorumlu Müdürü,U 01 N HU 007 - Yolcu Hakları,Uzmanlaşma,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,70,Zorunlu,5 Saat,5 Yıl
+Müşteri İlişkileri ve Yolcu Hakları Sorumlu Müdürü,U 01 E SD 028 - Havacılığa Giriş,Temel,Dijital Ders,Online Sınavlı,70,Zorunlu,8 Saat,∞
+Müşteri İlişkileri ve Yolcu Hakları Sorumlu Müdürü,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Müşteri İlişkileri ve Yolcu Hakları Uzmanı,U 01 N HU 007 - Yolcu Hakları,Uzmanlaşma,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,70,Zorunlu,5 Saat,5 Yıl
+Müşteri İlişkileri ve Yolcu Hakları Uzmanı,U 01 E SD 028 - Havacılığa Giriş,Temel,Dijital Ders,Online Sınavlı,70,Zorunlu,8 Saat,∞
+Müşteri İlişkileri ve Yolcu Hakları Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Nöbetçi Meydan Müdürü,U 01 N HU 007 - Yolcu Hakları,Uzmanlaşma,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,70,Zorunlu,5 Saat,5 Yıl
+Nöbetçi Meydan Müdürü,U 01 E SD 028 - Havacılığa Giriş,Temel,Dijital Ders,Online Sınavlı,70,Zorunlu,8 Saat,∞
+Nöbetçi Meydan Müdürü,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Yolcu Hakları Çağrı Merkezi Personeli,U 01 N HU 007 - Yolcu Hakları,Uzmanlaşma,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,70,Zorunlu,5 Saat,5 Yıl
+Yolcu Hakları Çağrı Merkezi Personeli,U 01 E SD 028 - Havacılığa Giriş,Temel,Dijital Ders,Online Sınavlı,70,Zorunlu,8 Saat,∞
+Yolcu Hakları Çağrı Merkezi Personeli,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Yolcu Hakları Temsilcisi,U 01 N HU 007 - Yolcu Hakları,Uzmanlaşma,Dijital Bilgi Notu,Gözetmenli Online Sınavlı,70,Zorunlu,5 Saat,5 Yıl
+Yolcu Hakları Temsilcisi,U 01 E SD 028 - Havacılığa Giriş,Temel,Dijital Ders,Online Sınavlı,70,Zorunlu,8 Saat,∞
+Yolcu Hakları Temsilcisi,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Hava Sağlık Değerlendiricisi,U 01 E UO 041 - Entegre Sivil Havacılık Tıbbı,Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,80,Zorunlu,72 Saat,3 Yıl
+Hava Sağlık Değerlendiricisi,U 01 E SD 028 - Havacılığa Giriş,Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,∞
+Hava Sağlık Değerlendiricisi,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Havacılık Psikoloğu,U 01 E SD 053 - Havacılık Personeli İçin Destekleyici Yaklaşımlar,Uzmanlaşma,Dijital Ders,Bütünleşik Sınavlı,80,Zorunlu,5 Saat,-
+Havacılık Psikoloğu,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Temel,Dijital Ders,Bütünleşik Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Havacılık Psikoloğu,U 01 N SD 036 - Havacılıkta İnsan Faktörleri,Temel,Dijital Bilgi Notu,Online Sınavlı,80,Zorunlu,5 Saat,5 Yıl
+Havacılık Psikoloğu,U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,∞
+Havacılık Psikoloğu,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Yetkilendirilmiş Sertifikasyon Uzman Yardımcısı,U 01 E UE 003 - Temel Hava Aracı Sertifikasyonu,Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,5 Saat,5 Yıl
+Yetkilendirilmiş Sertifikasyon Uzman Yardımcısı,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Yetkilendirilmiş Sertifikasyon Uzman Yardımcısı,U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,∞
+Yetkilendirilmiş Sertifikasyon Uzman Yardımcısı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Yetkilendirilmiş Sertifikasyon Uzman Yardımcısı,"U 01 N UE 165 - Certification Specifications, Acceptable Means of Compliance and Guidance Material for Large Rotorcraft (CS-29)",Uzmanlaşma,Dijital Bilgi Notu,Online Sınavlı,70,Opsiyonel,2 Saat,-
+Yetkilendirilmiş Sertifikasyon Uzman Yardımcısı,U 01 N UE 166 - Certification Specifications and Acceptable Means of Compliance for Hot Air Balloons (CS-31),Uzmanlaşma,Dijital Bilgi Notu,Online Sınavlı,70,Opsiyonel,2 Saat,-
+Yetkilendirilmiş Sertifikasyon Uzman Yardımcısı,U 01 N UE 167 - Certification Specifications and Acceptable Means of Compliance for Engines (CS-E),Uzmanlaşma,Dijital Bilgi Notu,Online Sınavlı,70,Opsiyonel,2 Saat,-
+Yetkilendirilmiş Sertifikasyon Uzman Yardımcısı,U 01 N UE 178 - Certification Specifications for Normal Category Aeroplanes (CS-23),Uzmanlaşma,Dijital Bilgi Notu,Online Sınavlı,70,Opsiyonel,2 Saat,-
+Yetkilendirilmiş Sertifikasyon Uzman Yardımcısı,U 01 N UE 179 - Certification Specifications and Acceptable Means of Compliance for Large Aeroplanes (CS-25),Uzmanlaşma,Dijital Bilgi Notu,Online Sınavlı,70,Opsiyonel,2 Saat,-
+Yetkilendirilmiş Sertifikasyon Uzman Yardımcısı,U 01 N UE 005 - Uçuşa Elverişlilik Oryantasyon,Başlangıç,Dijital Bilgi Notu,Online Sınavsız,70,Opsiyonel,8 Saat,5 Yıl
+Yetkilendirilmiş Sertifikasyon Uzman Yardımcısı,U 01 N UE 168 - Certification Specifications for European Technical Standard Orders (CS-ETSO),Belirtilmemiş,Dijital Bilgi Notu,Online Sınavlı,70,Opsiyonel,2 Saat,-
+Yetkilendirilmiş Sertifikasyon Uzmanı,U 01 E UE 003 - Temel Hava Aracı Sertifikasyonu,Uzmanlaşma,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,5 Saat,5 Yıl
+Yetkilendirilmiş Sertifikasyon Uzmanı,U 01 E SD 011 - Emniyet Yönetim Sistemi (SMS),Temel,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,24 Saat,5 Yıl
+Yetkilendirilmiş Sertifikasyon Uzmanı,U 01 E SD 028 - Havacılığa Giriş,Başlangıç,Dijital Ders,Gözetmenli Online Sınavlı,70,Zorunlu,8 Saat,∞
+Yetkilendirilmiş Sertifikasyon Uzmanı,U 01 N HG 001 - Güvenlik Bilinci,Başlangıç,Dijital Bilgi Notu,Online Sınavlı,70,Zorunlu,4 Saat,5 Yıl
+Yetkilendirilmiş Sertifikasyon Uzmanı,"U 01 N UE 165 - Certification Specifications, Acceptable Means of Compliance and Guidance Material for Large Rotorcraft (CS-29)",Uzmanlaşma,Dijital Bilgi Notu,Online Sınavlı,70,Opsiyonel,2 Saat,-
+Yetkilendirilmiş Sertifikasyon Uzmanı,U 01 N UE 166 - Certification Specifications and Acceptable Means of Compliance for Hot Air Balloons (CS-31),Uzmanlaşma,Dijital Bilgi Notu,Online Sınavlı,70,Opsiyonel,2 Saat,-
+Yetkilendirilmiş Sertifikasyon Uzmanı,U 01 N UE 167 - Certification Specifications and Acceptable Means of Compliance for Engines (CS-E),Uzmanlaşma,Dijital Bilgi Notu,Online Sınavlı,70,Opsiyonel,2 Saat,-
+Yetkilendirilmiş Sertifikasyon Uzmanı,U 01 N UE 168 - Certification Specifications for European Technical Standard Orders (CS-ETSO),Uzmanlaşma,Dijital Bilgi Notu,Online Sınavlı,70,Opsiyonel,2 Saat,-
+Yetkilendirilmiş Sertifikasyon Uzmanı,U 01 N UE 178 - Certification Specifications for Normal Category Aeroplanes (CS-23),Uzmanlaşma,Dijital Bilgi Notu,Online Sınavlı,70,Opsiyonel,2 Saat,-
+Yetkilendirilmiş Sertifikasyon Uzmanı,U 01 N UE 179 - Certification Specifications and Acceptable Means of Compliance for Large Aeroplanes (CS-25),Uzmanlaşma,Dijital Bilgi Notu,Online Sınavlı,70,Opsiyonel,2 Saat,-
+Yetkilendirilmiş Sertifikasyon Uzmanı,U 01 N UE 005 - Uçuşa Elverişlilik Oryantasyon,Başlangıç,Dijital Bilgi Notu,Online Sınavsız,70,Opsiyonel,8 Saat,5 Yıl
