@@ -8,7 +8,7 @@ import pyperclip
 
 class MatrixGUIApp:
     """Havacılık Lisans Matris Verilerini Panodan Okuyan,
-    'Sınavsız' türündeki dersleri ve 'Opsiyonel' durumlarını da tanıyan Masaüstü Uygulaması.
+    'Sınav' veriliş şekillerini de tanıyan Masaüstü Uygulaması.
     """
 
     def __init__(self, root: tk.Tk, db_path: str = "havacilik_egitim.db"):
@@ -130,7 +130,7 @@ class MatrixGUIApp:
         return lines[1] if len(lines) > 1 else "Bilinmeyen Lisans"
 
     def parse_raw_text(self, raw_text: str):
-        """Metni temizler ve esnetilmiş regex ile tüm dersleri ayıklar."""
+        """Metni temizler ve belirlenen haritalama yapısına göre verileri ayıklar."""
         cleaned_text = self.clean_pre_matris(raw_text)
         if not cleaned_text:
             return None, []
@@ -150,13 +150,14 @@ class MatrixGUIApp:
             end_idx = starts[i+1] if i + 1 < len(starts) else len(clean_stream)
             blocks.append(clean_stream[start_idx:end_idx].strip())
 
-        verilis_pattern = r"(Dijital Ders|Dijital Bilgi Notu|Pratik Ders|Simülatör|Örgün Ders|Uzaktan Eğitim)"
+        # Ham Eğitim Cinsi -> DB verilis_sekli ('Sınav' eklendi)
+        verilis_pattern = r"(Dijital\s+Ders|Dijital\s+Bilgi\s+Notu|Pratik\s+Ders|Pratik|Simülatör\s+Ders|Simülatör|Örgün\s+Ders|Örgün|Uzaktan\s+Eğitim|Sınav)"
         
-        # Sınav tipi: 'Sınavlı' veya 'Sınavsız' ifadelerini destekler
+        # Ham Veriliş Şekli + Sınav -> DB sinav_tipi
         sinav_pattern = r"((?:Gözetmenli\s+Online|Online|Bütünleşik-S|Bütünleşik|Uygulama)?\s*Sınav(?:lı|sız))"
         
-        # Zorunluluk grubu (Zorunlu|Seçmeli|Opsiyonel vb.) ve Süre grubu opsiyonel
-        kuyruk_pattern = r"(\d{2})\s+([\wÇĞİÖŞÜçğiöşü]+)\s+(?:(\d+\s*Saat)\s+)?(\d+\s*Yıl|∞|-)"
+        # Geçme Notu, Zorunluluk, Süre (Opsiyonel) ve Yenileme
+        kuyruk_pattern = r"(\d+)\s+([\wÇĞİÖŞÜçğiöşü]+)\s+(?:(\d+\s*Saat)\s+)?(\d+\s*Yıl|∞|-)"
 
         anchor_regex = re.compile(
             rf"{verilis_pattern}\s+{sinav_pattern}\s+{kuyruk_pattern}",
@@ -178,6 +179,7 @@ class MatrixGUIApp:
 
                 head_text = block_clean[:match.start()].strip()
 
+                # Ham Eğitim Tipi -> DB egitim_cinsi
                 egitim_cinsi_match = re.search(
                     r"(★?\s*(?:Uzmanlaşma|Temel|Başlangıç|-))\s*-?\s*$", 
                     head_text, 
