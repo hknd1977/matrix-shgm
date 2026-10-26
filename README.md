@@ -7,6 +7,22 @@
 
 Bu proje; Sivil Havacılık Genel Müdürlüğü (SHGM) standartlarındaki havacılık lisans, sertifika ve eğitim matris verilerinin işlenmesi, SQLite veritabanına aktarılması ve öğrenciler ile akademisyenler için analiz edilip görselleştirilmesini sağlayan Python tabanlı bir masaüstü ve web uygulaması ekosistemidir.
 
+## ⚠️ Yasal Sorumluluk Reddi ve Veri Doğrulama Uyarısı
+
+> **ÖNEMLİ BİLDİRİM VE SORUMLULUK REDDİ (DISCLAIMER):**
+> 
+> * **Veri Güncelliği ve Hata Payı:** Bu uygulamada yer alan havacılık lisans, ders ve eğitim matris verileri zaman içinde güncelliğini yitirmiş, değişmiş veya aktarım esnasında teknik eksiklikler barındırıyor olabilir. Verilerin anlık güncelliği ve tam doğruluğu garanti edilmemektedir.
+> * **Nihai Kontrol Şartı:** Bu sistem sadece bilgilendirme, ön analiz ve akademik danışmanlığa rehberlik etme amacıyla geliştirilmiştir. Tüm işlemlerin, ders muafiyetlerinin ve lisans şartlarının nihai doğrulaması **kesinlikle** T.C. Sivil Havacılık Genel Müdürlüğü (SHGM) resmi bilgi portalı olan [https://kdmorg.shgm.gov.tr/](https://kdmorg.shgm.gov.tr/) adresi üzerinden yapılmalıdır.
+> * **Sorumluluk Kabul Edilmez:** Uygulamanın kullanımından, verilerdeki olası eksiklik veya yanlışlıklardan, bu verilere dayanılarak alınan akademik, idari, hukuki veya kişisel kararlardan ve doğabilecek doğrudan/dolaylı zararlardan yazılım geliştiricileri veya proje sahipleri hiçbir şekilde hukuki ve cezai sorumluluk kabul etmemektedir.
+
+---
+
+## 🤖 Yapay Zeka (AI) Kullanımı ve Etik Bildirimi
+
+Bu projenin kod mimarisi, algoritma kurgusu, veri ayrıştırma kalıpları ve kullanıcı arayüzü (UI) bileşenleri **Google Gemini Flash** yapay zeka modeli yardımıyla geliştirilmiştir.
+
+Yapay zeka teknolojisi etik kullanım ilkelerine bağlı kalınarak; kod geliştirme asistanı, algoritma optimizasyonu ve teknik dokümantasyon desteği amacıyla kullanılmıştır.
+
 ---
 
 ## 🌟 Öne Çıkan Özellikler
@@ -20,9 +36,3 @@ Bu proje; Sivil Havacılık Genel Müdürlüğü (SHGM) standartlarındaki havac
 
 ---
 
-## 🛠️ Kurulum ve Çalıştırma
-
-### 1. Depoyu Klonlayın
-```bash
-git clone [https://github.com/kullanici-adiniz/havacilik-lisans-rehberi.git](https://github.com/kullanici-adiniz/havacilik-lisans-rehberi.git)
-cd havacilik-lisans-rehberi
