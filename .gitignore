@@ -1,0 +1,29 @@
+# Python Sanal Çevre ve Derleme Dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# IDE ve Editör Ayarları
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Streamlit Özel Ayarları ve Hassas Veriler
+.streamlit/secrets.toml
+
+# Temp / Log Dosyaları
+*.log
+*.tmp
+
+# NOT: Veritabanı Dosyası (havacilik_egitim.db)
+# Eğer veritabanınız canlı verileri içeriyorsa ve GitHub'a yüklenmesini istiyorsanız
+# aşağıdaki satırın başına '#' koyun. Sadece yerel test verisiyse ignore edin.
+# *.db
+
